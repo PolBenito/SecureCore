@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic id="N:AccesDades_BC" project="_Namespaces" file="27690d63-5f40-a1a7-9bcd-78828d2eeba5">
+    <topic id="T:AccesDades_BC.DataAccess" project="AccesDades_BC" file="5b5ea8f5-c914-44be-8eaf-36a1ea2b798e">
+      <topic id="M:AccesDades_BC.DataAccess.#ctor" project="AccesDades_BC" file="d3a62859-bdc4-81ef-93c4-e7c128ec419c" />
+      <topic id="Methods.T:AccesDades_BC.DataAccess" project="AccesDades_BC" file="5da78930-56a7-3c60-4cbb-32728e053d39">
+        <topic id="M:AccesDades_BC.DataAccess.Actualitzar(System.String,System.Data.DataSet)" project="AccesDades_BC" file="03766843-f40f-4c7f-62a4-96253cf83563" />
+        <topic id="M:AccesDades_BC.DataAccess.Executa(System.String)" project="AccesDades_BC" file="e1fdd48f-baea-dd0e-ddaa-094015eeb55f" />
+        <topic id="M:AccesDades_BC.DataAccess.PortarPerConsulta(System.String)" project="AccesDades_BC" file="e4f5d670-0062-be9a-5372-67b35e623761" />
+        <topic id="M:AccesDades_BC.DataAccess.PortarPerId(System.String,System.String,System.String)" project="AccesDades_BC" file="52acc5eb-dde5-b5a4-3f1f-fa9c460b7059" />
+        <topic id="M:AccesDades_BC.DataAccess.PortarTaula(System.String)" project="AccesDades_BC" file="bbcc4382-cd15-3a1f-597b-f82aff15397f" />
+      </topic>
+    </topic>
+  </topic>
+</topics>

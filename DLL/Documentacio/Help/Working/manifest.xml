@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic id="N:AccesDades_BC" type="API" />
+  <topic id="T:AccesDades_BC.DataAccess" type="API" />
+  <topic id="Methods.T:AccesDades_BC.DataAccess" type="API" />
+  <topic id="M:AccesDades_BC.DataAccess.#ctor" type="API" />
+  <topic id="M:AccesDades_BC.DataAccess.Actualitzar(System.String,System.Data.DataSet)" type="API" />
+  <topic id="M:AccesDades_BC.DataAccess.Executa(System.String)" type="API" />
+  <topic id="M:AccesDades_BC.DataAccess.PortarPerConsulta(System.String)" type="API" />
+  <topic id="M:AccesDades_BC.DataAccess.PortarPerId(System.String,System.String,System.String)" type="API" />
+  <topic id="M:AccesDades_BC.DataAccess.PortarTaula(System.String)" type="API" />
+</topics>

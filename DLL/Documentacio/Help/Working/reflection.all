@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reflection>
+  <assemblies>
+    <assembly name="AccesDades_BC">
+      <assemblydata version="1.0.0.0" culture="" key="" hash="SHA1" />
+      <attributes>
+        <attribute>
+          <type api="T:System.Reflection.AssemblyFileVersionAttribute" ref="true" />
+          <argument>
+            <type api="T:System.String" ref="true" />
+            <value>1.0.0.0</value>
+          </argument>
+        </attribute>
+      </attributes>
+    </assembly>
+  </assemblies>
+  <apis>
+    <api id="N:AccesDades_BC">
+      <apidata name="AccesDades_BC" group="namespace" />
+      <elements>
+        <element api="T:AccesDades_BC.DataAccess" />
+      </elements>
+    </api>
+    <api id="T:AccesDades_BC.DataAccess">
+      <apidata name="DataAccess" group="type" subgroup="class" />
+      <typedata visibility="public" serializable="false" />
+      <family>
+        <ancestors>
+          <type api="T:System.Object" ref="true" />
+        </ancestors>
+      </family>
+      <elements>
+        <element api="M:AccesDades_BC.DataAccess.#ctor" />
+        <element api="M:AccesDades_BC.DataAccess.PortarTaula(System.String)" />
+        <element api="M:AccesDades_BC.DataAccess.PortarPerConsulta(System.String)" />
+        <element api="M:AccesDades_BC.DataAccess.PortarPerId(System.String,System.String,System.String)" />
+        <element api="M:AccesDades_BC.DataAccess.Actualitzar(System.String,System.Data.DataSet)" />
+        <element api="M:AccesDades_BC.DataAccess.Executa(System.String)" />
+        <element api="M:System.Object.ToString">
+          <apidata name="ToString" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <returns>
+            <type api="T:System.String" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.Equals(System.Object)">
+          <apidata name="Equals" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <parameters>
+            <parameter name="obj">
+              <type api="T:System.Object" ref="true" />
+            </parameter>
+          </parameters>
+          <returns>
+            <type api="T:System.Boolean" ref="false" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.GetHashCode">
+          <apidata name="GetHashCode" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="true" />
+          <returns>
+            <type api="T:System.Int32" ref="false" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.GetType">
+          <apidata name="GetType" group="member" subgroup="method" />
+          <memberdata visibility="public" />
+          <proceduredata virtual="false" />
+          <returns>
+            <type api="T:System.Type" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.Finalize">
+          <apidata name="Finalize" group="member" subgroup="method" />
+          <memberdata visibility="family" />
+          <proceduredata virtual="true" />
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+        <element api="M:System.Object.MemberwiseClone">
+          <apidata name="MemberwiseClone" group="member" subgroup="method" />
+          <memberdata visibility="family" />
+          <proceduredata virtual="false" />
+          <returns>
+            <type api="T:System.Object" ref="true" />
+          </returns>
+          <containers>
+            <library assembly="mscorlib" module="mscorlib" kind="DynamicallyLinkedLibrary" />
+            <namespace api="N:System" />
+            <type api="T:System.Object" ref="true" />
+          </containers>
+        </element>
+      </elements>
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+      </containers>
+    </api>
+    <api id="M:AccesDades_BC.DataAccess.#ctor">
+      <apidata name=".ctor" group="member" subgroup="constructor" />
+      <memberdata visibility="public" special="true" />
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+        <type api="T:AccesDades_BC.DataAccess" ref="true" />
+      </containers>
+    </api>
+    <api id="M:AccesDades_BC.DataAccess.Actualitzar(System.String,System.Data.DataSet)">
+      <apidata name="Actualitzar" group="member" subgroup="method" />
+      <memberdata visibility="public" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="query">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+        <parameter name="dsOriginal">
+          <type api="T:System.Data.DataSet" ref="true" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Data.DataSet" ref="true" />
+      </returns>
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+        <type api="T:AccesDades_BC.DataAccess" ref="true" />
+      </containers>
+    </api>
+    <api id="M:AccesDades_BC.DataAccess.Executa(System.String)">
+      <apidata name="Executa" group="member" subgroup="method" />
+      <memberdata visibility="public" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="query">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+      </parameters>
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+        <type api="T:AccesDades_BC.DataAccess" ref="true" />
+      </containers>
+    </api>
+    <api id="M:AccesDades_BC.DataAccess.PortarPerConsulta(System.String)">
+      <apidata name="PortarPerConsulta" group="member" subgroup="method" />
+      <memberdata visibility="public" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="query">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Data.DataSet" ref="true" />
+      </returns>
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+        <type api="T:AccesDades_BC.DataAccess" ref="true" />
+      </containers>
+    </api>
+    <api id="M:AccesDades_BC.DataAccess.PortarPerId(System.String,System.String,System.String)">
+      <apidata name="PortarPerId" group="member" subgroup="method" />
+      <memberdata visibility="public" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="id">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+        <parameter name="valor">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+        <parameter name="nomTaula">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Data.DataSet" ref="true" />
+      </returns>
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+        <type api="T:AccesDades_BC.DataAccess" ref="true" />
+      </containers>
+    </api>
+    <api id="M:AccesDades_BC.DataAccess.PortarTaula(System.String)">
+      <apidata name="PortarTaula" group="member" subgroup="method" />
+      <memberdata visibility="public" />
+      <proceduredata virtual="false" />
+      <parameters>
+        <parameter name="nomTaula">
+          <type api="T:System.String" ref="true" />
+        </parameter>
+      </parameters>
+      <returns>
+        <type api="T:System.Data.DataSet" ref="true" />
+      </returns>
+      <containers>
+        <library assembly="AccesDades_BC" module="AccesDades_BC" kind="DynamicallyLinkedLibrary" />
+        <namespace api="N:AccesDades_BC" />
+        <type api="T:AccesDades_BC.DataAccess" ref="true" />
+      </containers>
+    </api>
+  </apis>
+</reflection>

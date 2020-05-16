@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+  <BODY>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="AccesDades_BC namespace">
+        <param name="Local" value="html/27690d63-5f40-a1a7-9bcd-78828d2eeba5.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="AccesDades_BC.DataAccess class">
+        <param name="Local" value="html/5b5ea8f5-c914-44be-8eaf-36a1ea2b798e.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Actualitzar method">
+        <param name="Local" value="html/03766843-f40f-4c7f-62a4-96253cf83563.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess class">
+        <param name="See Also" value="DataAccess class">
+      </OBJECT></LI>
+      <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="DataAccess Class">
+          <param name="Local" value="html/5b5ea8f5-c914-44be-8eaf-36a1ea2b798e.htm">
+        </OBJECT></LI>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="constructor">
+          <param name="Local" value="html/d3a62859-bdc4-81ef-93c4-e7c128ec419c.htm">
+        </OBJECT></LI>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="methods">
+          <param name="Local" value="html/5da78930-56a7-3c60-4cbb-32728e053d39.htm">
+        </OBJECT></LI>
+      </UL>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess.Actualitzar method">
+        <param name="Local" value="html/03766843-f40f-4c7f-62a4-96253cf83563.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess.DataAccess constructor">
+        <param name="Local" value="html/d3a62859-bdc4-81ef-93c4-e7c128ec419c.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess.Executa method">
+        <param name="Local" value="html/e1fdd48f-baea-dd0e-ddaa-094015eeb55f.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess.PortarPerConsulta method">
+        <param name="Local" value="html/e4f5d670-0062-be9a-5372-67b35e623761.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess.PortarPerId method">
+        <param name="Local" value="html/52acc5eb-dde5-b5a4-3f1f-fa9c460b7059.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess.PortarTaula method">
+        <param name="Local" value="html/bbcc4382-cd15-3a1f-597b-f82aff15397f.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="Executa method">
+        <param name="Local" value="html/e1fdd48f-baea-dd0e-ddaa-094015eeb55f.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="PortarPerConsulta method">
+        <param name="Local" value="html/e4f5d670-0062-be9a-5372-67b35e623761.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="PortarPerId method">
+        <param name="Local" value="html/52acc5eb-dde5-b5a4-3f1f-fa9c460b7059.htm">
+      </OBJECT></LI>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="PortarTaula method">
+        <param name="Local" value="html/bbcc4382-cd15-3a1f-597b-f82aff15397f.htm">
+      </OBJECT></LI>
+    </UL>
+  </BODY>
+</HTML>

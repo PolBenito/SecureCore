@@ -1,0 +1,61 @@
+﻿<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<HTML>
+  <BODY>
+
+  <UL>
+    <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="AccesDades_BC">
+      <param name="Local" value="html\27690d63-5f40-a1a7-9bcd-78828d2eeba5.htm">
+    </OBJECT></LI>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+        <param name="Name" value="DataAccess Class">
+        <param name="Local" value="html\5b5ea8f5-c914-44be-8eaf-36a1ea2b798e.htm">
+      </OBJECT></LI>
+      <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="DataAccess Constructor ">
+          <param name="Local" value="html\d3a62859-bdc4-81ef-93c4-e7c128ec419c.htm">
+        </OBJECT></LI>
+      </UL>
+      <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="DataAccess Methods">
+          <param name="Local" value="html\5da78930-56a7-3c60-4cbb-32728e053d39.htm">
+        </OBJECT></LI>
+        <UL>
+          <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Actualitzar Method ">
+            <param name="Local" value="html\03766843-f40f-4c7f-62a4-96253cf83563.htm">
+          </OBJECT></LI>
+        </UL>
+        <UL>
+          <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Executa Method ">
+            <param name="Local" value="html\e1fdd48f-baea-dd0e-ddaa-094015eeb55f.htm">
+          </OBJECT></LI>
+        </UL>
+        <UL>
+          <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="PortarPerConsulta Method ">
+            <param name="Local" value="html\e4f5d670-0062-be9a-5372-67b35e623761.htm">
+          </OBJECT></LI>
+        </UL>
+        <UL>
+          <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="PortarPerId Method ">
+            <param name="Local" value="html\52acc5eb-dde5-b5a4-3f1f-fa9c460b7059.htm">
+          </OBJECT></LI>
+        </UL>
+        <UL>
+          <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="PortarTaula Method ">
+            <param name="Local" value="html\bbcc4382-cd15-3a1f-597b-f82aff15397f.htm">
+          </OBJECT></LI>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+  </BODY>
+</HTML>

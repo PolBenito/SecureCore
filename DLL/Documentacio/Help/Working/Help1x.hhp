@@ -1,0 +1,93 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Default Window=MsdnHelp
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+Binary TOC=Yes
+Title=A Sandcastle Documented Class Library
+Default topic=html\27690d63-5f40-a1a7-9bcd-78828d2eeba5.htm
+Contents file=Documentation.hhc
+Compiled file=Documentation.chm
+Error log file=Documentation.log
+Index file=Documentation.hhk
+Auto Index=Yes
+
+[WINDOWS]
+MsdnHelp="A Sandcastle Documented Class Library","Documentation.hhc","Documentation.hhk","html\27690d63-5f40-a1a7-9bcd-78828d2eeba5.htm","html\27690d63-5f40-a1a7-9bcd-78828d2eeba5.htm",,,,,0x62520,220,0x387e,[86,51,886,651],,,,,,,0
+
+[FILES]
+html\03766843-f40f-4c7f-62a4-96253cf83563.htm
+html\27690d63-5f40-a1a7-9bcd-78828d2eeba5.htm
+html\52acc5eb-dde5-b5a4-3f1f-fa9c460b7059.htm
+html\5b5ea8f5-c914-44be-8eaf-36a1ea2b798e.htm
+html\5da78930-56a7-3c60-4cbb-32728e053d39.htm
+html\bbcc4382-cd15-3a1f-597b-f82aff15397f.htm
+html\d3a62859-bdc4-81ef-93c4-e7c128ec419c.htm
+html\e1fdd48f-baea-dd0e-ddaa-094015eeb55f.htm
+html\e4f5d670-0062-be9a-5372-67b35e623761.htm
+icons\AlertCaution.png
+icons\AlertNote.png
+icons\AlertSecurity.png
+icons\CFW.gif
+icons\CodeExample.png
+icons\favicon.ico
+icons\privclass.gif
+icons\privdelegate.gif
+icons\privenumeration.gif
+icons\privevent.gif
+icons\privextension.gif
+icons\privfield.gif
+icons\privinterface.gif
+icons\privmethod.gif
+icons\privproperty.gif
+icons\privstructure.gif
+icons\protclass.gif
+icons\protdelegate.gif
+icons\protenumeration.gif
+icons\protevent.gif
+icons\protextension.gif
+icons\protfield.gif
+icons\protinterface.gif
+icons\protmethod.gif
+icons\protoperator.gif
+icons\protproperty.gif
+icons\protstructure.gif
+icons\pubclass.gif
+icons\pubdelegate.gif
+icons\pubenumeration.gif
+icons\pubevent.gif
+icons\pubextension.gif
+icons\pubfield.gif
+icons\pubinterface.gif
+icons\pubmethod.gif
+icons\puboperator.gif
+icons\pubproperty.gif
+icons\pubstructure.gif
+icons\SectionCollapsed.png
+icons\SectionExpanded.png
+icons\slMobile.gif
+icons\static.gif
+icons\xna.gif
+scripts\branding.js
+styles\branding-cs-CZ.css
+styles\branding-de-DE.css
+styles\branding-en-US.css
+styles\branding-es-ES.css
+styles\branding-fr-FR.css
+styles\branding-Help1.css
+styles\branding-HelpViewer.css
+styles\branding-it-IT.css
+styles\branding-ja-JP.css
+styles\branding-ko-KR.css
+styles\branding-pl-PL.css
+styles\branding-pt-BR.css
+styles\branding-ru-RU.css
+styles\branding-tr-TR.css
+styles\branding-Website.css
+styles\branding-zh-CN.css
+styles\branding-zh-TW.css
+styles\branding.css
+
+
+[INFOTYPES]
